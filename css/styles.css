@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 200;
+    background-color: rgb(75, 74, 74);
+}
+
+.all-div-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 25vh;
+    background-color: rgb(16, 4, 45);
+   border-top: 4px solid #ccc;
+   color: white;
+   padding-top: 70px;
+}
+
+.title-section{
+font-family: "Pacifico", cursive;
+color: #f1860b;
+}
+
+/* column 1 starts here */
+
+.columnOne-section {
+    margin-left: 30px;
+}
+
+.columnOne-elements p {
+    cursor: pointer;
+     transition: color 0.3s ease, transform 0.3s ease;
+     
+}
+
+
+.columnOne-elements :hover{
+    color: #f1860b;
+}
+
+
+/* column 2 starts here */
+
+.fa-location, .fa-phone, .fa-envelope {
+   margin-right: 15px;
+   cursor: pointer; 
+}
+
+
+.c2-socialmedia-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.c2-socialmedia-icons p {
+    transition: transform 0.3s ease;
+}
+
+.c2-socialmedia-icons p:hover {
+    transform: scale(1.2);
+}
+
+.icon-circle {
+    color:white;
+    border-radius: 50%;
+    border-color: white;
+    padding: 10px;
+    font-size: 1.2em;
+    margin-right: 10px;
+    border: 1px solid #f9f9f9;
+}
+
+/* column 4 starts here */
+
+.c4-section{
+    margin-right: 70px;
+    }
+
+.c4-input-button {
+    max-width: 400px;
+    position: relative;
+} 
+
+.c4-input-button input{
+    width: 100%;
+    padding: 20px;
+    padding-right: 5px;
+    border-radius: 5px;
+    border-color: #f1860b;
+}
+
+.c4-input-button button{
+    position: absolute;
+    right: -15px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    background-color: #f1860b;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
