@@ -17,14 +17,6 @@ This project is a **responsive footer section** built using **HTML, CSS** icons.
 ## 🚀 Live Demo
 🔗 [View Project on Vercel]( https://footerbar-hvpe3h5lx-kv-sai-vikas-projects.vercel.app/)
 
-## 📂 Folder Structure
-```
-project-folder/
-│-- index.html
-│-- /css/styles.css
-│-- /img/favicon.ico
-```
-
 ## 📜 How to Use
 1. Clone this repository:
    ```sh
