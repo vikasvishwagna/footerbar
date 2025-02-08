@@ -17,17 +17,6 @@ This project is a **responsive footer section** built using **HTML, CSS** icons.
 ## 🚀 Live Demo
 🔗 [View Project on Vercel]( https://footerbar-hvpe3h5lx-kv-sai-vikas-projects.vercel.app/)
 
-## 📜 How to Use
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/vikasvishwagna/footerbar.git
-   ```
-2. Open `index.html` in a browser.
-3. Customize the content and styles as needed.
 
-## 🛠️ Setup & Installation
-1. Ensure you have a modern browser installed.
-2. Use any local server (e.g., Live Server in VS Code) for best results.
----
 ✅ Developed by **Vikas Vishwagna**
 
